@@ -1,6 +1,7 @@
 Deployed link - https://ikeaclone.netlify.app/
 
 Stack used - Mongodb , React , Redux , Heroku , css , Material UI
+and Netlify for deployment
 
 # Getting Started with Create React App
 
